@@ -1,6 +1,6 @@
 # Flutter Firebase MLKit Starter
 
-A Flutter project with the firebase mlkit built in.
+A Flutter project with the firebase mlkit built in using the flutter firebase mlkit plugin.
 
 <img src="https://firebasestorage.googleapis.com/v0/b/ml-kit-starters.appspot.com/o/Screenshot_20181121-083447.jpg?alt=media&token=c388df5a-c6a8-4ed7-af4f-89ef9aeae1c6" height="600" />
 
